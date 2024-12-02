@@ -1,0 +1,16 @@
+MC What-is-black-box-testing?
+When-you-test-a-system-without-knowing-its-implementation When-you-test-a-system-only-knowing-some-of-its-implementation When-you-test-a-system-knowing-how-it-is-implemented When-you-create-a-simple-version-of-a-unimplemented-function
+When-you-test-a-system-without-knowing-its-implementation
+
+TF Tests-should-try-to-break-your-software
+True False
+True
+
+MATCH Match-each-type-of-testing-to-its-definitions
+Unit Integration Acceptance System Tests-that-a-software-system-meets-the-needs-of-the-end-user Tests-some-componets-of-a-software-system-together Tests-all-componets-of-a-software-system-at-once Tests-that-each-unit-of-source-code-works-correctly
+Acceptance Integration System Unit
+
+FILL Tests-should-____-the-data-ranges
+None
+Partition
+

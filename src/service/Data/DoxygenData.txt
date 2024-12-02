@@ -1,0 +1,19 @@
+MC What-is-the-main-purpose-of-doxygen?
+To-add-cool-different-comments To-create-a-comprehensive-documentation-for-a-project To-force-people-to-write-more-comments To-add-functionality-to-a-project
+To-create-a-comprehensive-documentation-for-a-project
+
+TF Comments-should-be-short-and-helpful
+True False
+True
+
+TF Comments-should-be-extremely-detailed
+True False
+False
+
+MATCH Say-we-have-the-function-double-Divide(int-x,-int-y)-that-throws-error_divide_by_zero-when-y-=-0-Match-each-part-of-the-function-to-a-doxygen-tag
+Divide error_divide_by_zero int-x double @brief @return @throw @param
+Divide double error_divide_by_zero int-x
+
+FILL You-use-____-to-start-a-doxygen-comment
+None
+/**

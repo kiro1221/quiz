@@ -1,0 +1,3 @@
+0-VersionControl-MATCH-Match the following commands with their definitions-log,diff,clone,push,log defn,diff def,clone deff,push def-log,diff,clone,push
+1-VersionControl-MATCH-Match the following words with their definitions-merge,rebase,stash,fetch,merge defn,rebase defn,stash defn,fetch defn-merge,rebase,stash,fetch
+2-VersionControl-MATCH-Match the following definitions with the words they define-reset,revert,rm,blame,reset defn,revert defn,rm defn,blame defn-reset,revert,rm,blame

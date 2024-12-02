@@ -1,0 +1,3 @@
+0-VersionControl-FILL-git ______ is the command used to combine 2 different _______ when they have diverged.-[]-rebase,branches
+1-VersionControl-FILL-We use git ____ to create a git repository-[]-init
+2-VersionControl-FILL-git _____ is the command used to copy another reposidtory-[]-clone

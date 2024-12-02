@@ -1,0 +1,13 @@
+services:
+  selene:
+    image: selene
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "9100:9100"
+    develop:
+      watch:
+        - action: rebuild
+          path: .
+          target: /selene

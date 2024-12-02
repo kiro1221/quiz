@@ -1,0 +1,3 @@
+0-VersionControl-MC-Which of the following git commands is used to create a new branch?-[git branch,git checkout,git switch]-git branch
+1-VersionControl-MC-Which of the following git commands is used to remove a file from git history-rm,git rm,git delete,git purge-git rm
+2-VersionControl-MC-Which of the following git commands is used to show the history of the git commits?-git log,git history,git status,git archieve,git log

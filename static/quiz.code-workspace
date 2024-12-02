@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../JS/quiz"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "quiz"
+	}
+}

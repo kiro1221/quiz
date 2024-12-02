@@ -1,0 +1,3 @@
+0-VersionControl-TF-We use git init to create a git repository-true,false-true
+1-VersionControl-TF-shh keys are used to clone a repo-true,false-false
+2-VersionControl-TF-We use git create to create a git repository-true,false-false

@@ -1,0 +1,83 @@
+0
+Solid
+MC
+Single Responsibility Principle|Open/Closed Principle|Liskov Substitution Principle|Dependency Inversion Principle
+Single Responsibility Principle
+Which SOLID principle states that a class should have only one reason to change?
+
+1
+Solid
+MC
+Open for extension, closed for modification | Open for modification, closed for extension | Open to both extension and modification | Closed to both extension and modification
+Open for extension, closed for modification
+What does the Open/Closed Principle imply about software design?
+
+2
+Solid
+MC
+Derived classes must fully replace base classes without altering behavior | Derived classes can introduce breaking changes to the base class | Derived classes can ignore constraints of the base class | Derived classes should never replace base classes
+Derived classes must fully replace base classes without altering behavior
+According to the Liskov Substitution Principle, which of the following is true?
+
+3
+Solid
+MC
+High-level modules should depend on abstractions | Low-level modules should depend on other low-level modules | High-level modules should depend on low-level modules | Abstractions should depend on high-level modules
+High-level modules should depend on abstractions
+What does the Dependency Inversion Principle emphasize?
+
+0
+Solid
+TF
+True|False
+False
+The Dependency Inversion Principle emphasizes that high-level modules should depend on abstractions rather than on low-level modules.
+
+1
+Solid
+TF
+True|False
+True
+The Open/Closed Principle suggests that software entities should be open for extension but closed for modification.
+
+2
+Solid
+TF
+True|False
+True
+The Liskov Substitution Principle ensures that objects of a derived class should be replaceable with objects of the base class without altering the correctness of the program.
+
+3
+Solid
+TF
+True|False
+False
+The Dependency Inversion Principle states that low-level modules should depend on high-level modules. 
+
+0
+Solid
+FILL
+none
+Liskov Substitution
+The __________ Principle requires that objects of a derived class should be able to replace objects of the base class without affecting the program’s correctness.
+
+1
+Solid
+FILL
+none
+Single Responsibility Principle
+The ______ states that a class should have only one reason to change
+
+2
+Solid
+FILL
+none
+Dependency Inversion Principle
+The ______ principle states that high-level modules should depend on abstractions rather than on low-level modules.
+
+0
+Solid
+MATCH
+Single Responsibility Principle|Interface Segregation Principle|Liskov Substitution Principle|Open/Closed Principle|A class that manages user data should not also handle report generation.|A large interface is split into smaller, more specific interfaces for clients.|A subclass should be able to replace its superclass without altering the program’s functionality.|A logging system allows new types of log outputs without modifying existing code.
+A class that manages user data should not also handle report generation.|A large interface is split into smaller, more specific interfaces for clients.|A subclass should be able to replace its superclass without altering the program’s functionality.|A logging system allows new types of log outputs without modifying existing code.
+Match each SOLID principle with the scenario it best applies to.
